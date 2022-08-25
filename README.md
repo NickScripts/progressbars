@@ -1,2 +1,1 @@
-# progressbars
-Nicks Scripts version of ProgressBars
+exports['progressBars']:startUI(1000, "text")
